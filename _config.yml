@@ -1,4 +1,5 @@
 # Where things are
+title               : Perpuskampus
 source              : .
 destination         : ./_site
 collections_dir     : .
