@@ -1,4 +1,1 @@
----
----
-@import "{{ modif.scss }}";
-@import "{{ site.theme }}";
+@import "@primer/css/index.scss"

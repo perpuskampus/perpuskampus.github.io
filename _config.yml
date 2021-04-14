@@ -13,7 +13,6 @@ sass:
 collections:
   posts:
     output          : true
-theme: jekyll-theme-primer
 
 # Handling Reading
 safe                : false
