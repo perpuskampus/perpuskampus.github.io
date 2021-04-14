@@ -1,5 +1,6 @@
 # Where things are
 title               : Perpuskampus
+description         : Perpustakaan aplikasi Indonesia
 source              : .
 destination         : ./_site
 collections_dir     : .
