@@ -1,4 +1,8 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-debug.log
+_site
+node_modules
+.sass-cache
+*.gem
+Gemfile.lock
+*.gem
+assets/**/*.html
+assets/**/*.md
